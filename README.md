@@ -1,3 +1,3 @@
 # Django
 
-i've nothing to say
+actially this is what we have to know right??
